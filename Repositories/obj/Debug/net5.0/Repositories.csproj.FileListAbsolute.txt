@@ -1,0 +1,34 @@
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\Repositories.deps.json
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\Repositories.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\Repositories.pdb
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\BusinessObjects.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\DataAccessObjects.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\BusinessObjects.pdb
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\DataAccessObjects.pdb
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\refint\Repositories.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.pdb
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\ref\Repositories.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\Repositories.deps.json
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\Repositories.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\Repositories.pdb
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\BusinessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\DataAccessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\BusinessObjects.pdb
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\bin\Debug\net5.0\DataAccessObjects.pdb
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\refint\Repositories.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\Repositories.pdb
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\Repositories\obj\Debug\net5.0\ref\Repositories.dll

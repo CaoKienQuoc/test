@@ -1,0 +1,30 @@
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.deps.json
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.pdb
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.AssemblyReference.cache
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfoInputs.cache
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfo.cs
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CopyComplete
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\refint\DataAccessObjects.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.pdb
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\ref\DataAccessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.deps.json
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.pdb
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfo.cs
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CopyComplete
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\refint\DataAccessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.pdb
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\DataAccessObjects\obj\Debug\net5.0\ref\DataAccessObjects.dll

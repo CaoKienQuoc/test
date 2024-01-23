@@ -1,0 +1,30 @@
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\bin\Debug\net5.0\BusinessObjects.deps.json
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.json
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.dev.json
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\bin\Debug\net5.0\BusinessObjects.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.AssemblyReference.cache
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfo.cs
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\refint\BusinessObjects.dll
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.pdb
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.genruntimeconfig.cache
+F:\Semester 5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\ref\BusinessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\bin\Debug\net5.0\BusinessObjects.deps.json
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.json
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.dev.json
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\bin\Debug\net5.0\BusinessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfo.cs
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\refint\BusinessObjects.dll
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.pdb
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\BusinessObjects.genruntimeconfig.cache
+D:\FPT-Learn\HK5\PRN211\Ass02_SE1737_TranHongHung\BusinessObjects\obj\Debug\net5.0\ref\BusinessObjects.dll
